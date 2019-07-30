@@ -23,12 +23,12 @@
 * [@digaev/to_duration](https://github.com/digaev/to_duration)
 * [@umidjons/youtrack-telegram-bot](https://github.com/umidjons/youtrack-telegram-bot)
 * [@agzamovr/ml-course-uz](https://github.com/agzamovr/ml-course-uz)
-24. AvatarDrawable - https://github.com/islomov/AvatarDrawable
-25. Django-jsend-responses - https://github.com/Ibrohimbek/django-jsend-responses
-26. monaco - https://github.com/inoyatov/monaco
-27. DapperRepository - https://github.com/elyor0529/DapperRepository
-28. Software-Design - https://github.com/bkodirov/Software-Design
-29. Go-tour-uz - https://github.com/faxriddin/go-tour-uz
-30. Rabbitmq-examples-uz - https://github.com/faxriddin/rabbitmq-examples-uz
-31. agile-arm-python - https://github.com/rahmonov/agile-crm-python
-32. Metrics-reporter-play - https://github.com/htimur/metrics-reporter-play
+* [@islomov/AvatarDrawable](https://github.com/islomov/AvatarDrawable)
+* [@Ibrohimbek/django-jsend-responses](https://github.com/Ibrohimbek/django-jsend-responses)
+* [@inoyatov/monaco](https://github.com/inoyatov/monaco)
+* [@elyor0529/DapperRepository](https://github.com/elyor0529/DapperRepository)
+* [@bkodirov/Software-Design](https://github.com/bkodirov/Software-Design)
+* [@faxriddin/go-tour-uz](https://github.com/faxriddin/go-tour-uz)
+* [@faxriddin/rabbitmq-examples-uz](https://github.com/faxriddin/rabbitmq-examples-uz)
+* [@rahmonov/agile-crm-python](https://github.com/rahmonov/agile-crm-python)
+* [@htimur/metrics-reporter-play](https://github.com/htimur/metrics-reporter-play)
