@@ -9,20 +9,20 @@
 * [@DASAR/ShiftColorPicker](https://github.com/DASAR/ShiftColorPicker)
 * [@S1lentium/IPTools](https://github.com/S1lentium/IPTools)
 * [@rahmonov/alcazar](https://github.com/rahmonov/alcazar)
-10. solid.python - https://github.com/heykarimoff/solid.python
-11. babel-plugin-direct-import - https://github.com/umidbekkarimov/babel-plugin-direct-import
-12. redux-lightweight - https://github.com/doniyor2109/redux-lightweight
-13. Minim-Android - https://github.com/DASAR/Minim-Android
-14. LinearProgressBar - https://github.com/Recouse/LinearProgressBar
-15. microservice-architecture - https://github.com/sherxon/microservice-architecture
-16. devon - https://github.com/muminoff/devon
-17. Creditor-html5-video - https://github.com/bahriddin/ckeditor-html5-video
-18. Jest-generator https://github.com/doniyor2109/jest-generator
-19. Stale-options- https://github.com/digaev/stale_options
-20. git-tf - https://github.com/nodirt/git-tf
-21. to_duration - https://github.com/digaev/to_duration
-22. Youtrack-telegram-bot - https://github.com/umidjons/youtrack-telegram-bot
-23. Ml-course-uz - https://github.com/agzamovr/ml-course-uz
+* [@heykarimoff/solid.python](https://github.com/heykarimoff/solid.python)
+* [@umidbekkarimov/babel-plugin-direct-import](https://github.com/umidbekkarimov/babel-plugin-direct-import)
+* [@doniyor2109/redux-lightweight](https://github.com/doniyor2109/redux-lightweight)
+* [@DASAR/Minim-Android](https://github.com/DASAR/Minim-Android)
+* [@Recouse/LinearProgressBar](https://github.com/Recouse/LinearProgressBar)
+* [@sherxon/microservice-architecture](https://github.com/sherxon/microservice-architecture)
+* [@muminoff/devon](https://github.com/muminoff/devon)
+* [@bahriddin/ckeditor-html5-video](https://github.com/bahriddin/ckeditor-html5-video)
+* [@doniyor2109/jest-generator](https://github.com/doniyor2109/jest-generator)
+* [@digaev/stale_options](https://github.com/digaev/stale_options)
+* [@nodirt/git-tf](https://github.com/nodirt/git-tf)
+* [@digaev/to_duration](https://github.com/digaev/to_duration)
+* [@umidjons/youtrack-telegram-bot](https://github.com/umidjons/youtrack-telegram-bot)
+* [@agzamovr/ml-course-uz](https://github.com/agzamovr/ml-course-uz)
 24. AvatarDrawable - https://github.com/islomov/AvatarDrawable
 25. Django-jsend-responses - https://github.com/Ibrohimbek/django-jsend-responses
 26. monaco - https://github.com/inoyatov/monaco
