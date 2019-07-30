@@ -1,13 +1,13 @@
 # Open source projects made by Uzbek developers
 
 * [@sherxon/AlgoDS](https://github.com/sherxon/AlgoDS)
-* [ozodrukh/CircularReveal](https://github.com/ozodrukh/CircularReveal)
-* [Lapple/ErrorBoard](https://github.com/Lapple/ErrorBoard)
-* [ozodrukh/RippleDrawable](https://github.com/ozodrukh/RippleDrawable)
-* [Lapple/react-json-inspector](https://github.com/Lapple/react-json-inspector)
-6. react-transitive-number - https://github.com/Lapple/react-transitive-number
-7. ShiftColorPicker - https://github.com/DASAR/ShiftColorPicker
-8. IPTools - https://github.com/S1lentium/IPTools
+* [@ozodrukh/CircularReveal](https://github.com/ozodrukh/CircularReveal)
+* [@Lapple/ErrorBoard](https://github.com/Lapple/ErrorBoard)
+* [@ozodrukh/RippleDrawable](https://github.com/ozodrukh/RippleDrawable)
+* [@Lapple/react-json-inspector](https://github.com/Lapple/react-json-inspector)
+* [@Lapple/react-transitive-number](https://github.com/Lapple/react-transitive-number)
+* [@DASAR/ShiftColorPicker](https://github.com/DASAR/ShiftColorPicker)
+* [@IPTools](https://github.com/S1lentium/IPTools)
 9. alcazar - https://github.com/rahmonov/alcazar
 10. solid.python - https://github.com/heykarimoff/solid.python
 11. babel-plugin-direct-import - https://github.com/umidbekkarimov/babel-plugin-direct-import
