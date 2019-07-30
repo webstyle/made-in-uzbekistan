@@ -2,8 +2,8 @@
 
 * [@sherxon/AlgoDS](https://github.com/sherxon/AlgoDS)
 * [@ozodrukh/CircularReveal](https://github.com/ozodrukh/CircularReveal)
-* [@Lapple/ErrorBoard](https://github.com/Lapple/ErrorBoard)
 * [@ozodrukh/RippleDrawable](https://github.com/ozodrukh/RippleDrawable)
+* [@Lapple/ErrorBoard](https://github.com/Lapple/ErrorBoard)
 * [@Lapple/react-json-inspector](https://github.com/Lapple/react-json-inspector)
 * [@Lapple/react-transitive-number](https://github.com/Lapple/react-transitive-number)
 * [@DASAR/ShiftColorPicker](https://github.com/DASAR/ShiftColorPicker)
