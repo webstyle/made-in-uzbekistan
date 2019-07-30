@@ -32,3 +32,9 @@
 * [@faxriddin/rabbitmq-examples-uz](https://github.com/faxriddin/rabbitmq-examples-uz)
 * [@rahmonov/agile-crm-python](https://github.com/rahmonov/agile-crm-python)
 * [@htimur/metrics-reporter-play](https://github.com/htimur/metrics-reporter-play)
+
+
+# Contributing
+Contributions welcome! Fork, commit and send me your pull request.  
+
+Thank you for your contributing!
