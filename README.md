@@ -7,8 +7,8 @@
 * [@Lapple/react-json-inspector](https://github.com/Lapple/react-json-inspector)
 * [@Lapple/react-transitive-number](https://github.com/Lapple/react-transitive-number)
 * [@DASAR/ShiftColorPicker](https://github.com/DASAR/ShiftColorPicker)
-* [@IPTools](https://github.com/S1lentium/IPTools)
-9. alcazar - https://github.com/rahmonov/alcazar
+* [@S1lentium/IPTools](https://github.com/S1lentium/IPTools)
+* [@rahmonov/alcazar](https://github.com/rahmonov/alcazar)
 10. solid.python - https://github.com/heykarimoff/solid.python
 11. babel-plugin-direct-import - https://github.com/umidbekkarimov/babel-plugin-direct-import
 12. redux-lightweight - https://github.com/doniyor2109/redux-lightweight
