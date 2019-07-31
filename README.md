@@ -1,3 +1,4 @@
+# 🇺🇿🇺🇿🇺🇿
 # Open source projects made by Uzbek developers
 
 * [@sherxon/AlgoDS](https://github.com/sherxon/AlgoDS)
