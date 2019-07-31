@@ -35,6 +35,7 @@
 * [@faxriddin/rabbitmq-examples-uz](https://github.com/faxriddin/rabbitmq-examples-uz)
 * [@rahmonov/agile-crm-python](https://github.com/rahmonov/agile-crm-python)
 * [@htimur/metrics-reporter-play](https://github.com/htimur/metrics-reporter-play)
+* [@rustamwin/rpc-controllers](https://github.com/rustamwin/rpc-controllers)
 
 
 # Contributing
