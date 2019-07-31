@@ -17,6 +17,7 @@
 * [@doniyor2109/redux-lightweight](https://github.com/doniyor2109/redux-lightweight)
 * [@DASAR/Minim-Android](https://github.com/DASAR/Minim-Android)
 * [@sherxon/microservice-architecture](https://github.com/sherxon/microservice-architecture)
+* [@mudin/awesome-iview](https://github.com/mudin/awesome-iview)
 * [@muminoff/devon](https://github.com/muminoff/devon)
 * [@bahriddin/ckeditor-html5-video](https://github.com/bahriddin/ckeditor-html5-video)
 * [@doniyor2109/jest-generator](https://github.com/doniyor2109/jest-generator)
