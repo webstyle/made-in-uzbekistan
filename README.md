@@ -36,6 +36,7 @@
 * [@rahmonov/agile-crm-python](https://github.com/rahmonov/agile-crm-python)
 * [@htimur/metrics-reporter-play](https://github.com/htimur/metrics-reporter-play)
 * [@rustamwin/rpc-controllers](https://github.com/rustamwin/rpc-controllers)
+* [@superdispatch/js-tools](https://github.com/superdispatch/js-tools)
 
 
 # Contributing
