@@ -7,6 +7,7 @@
 * [@Lapple/ErrorBoard](https://github.com/Lapple/ErrorBoard)
 * [@Lapple/react-json-inspector](https://github.com/Lapple/react-json-inspector)
 * [@Lapple/react-transitive-number](https://github.com/Lapple/react-transitive-number)
+* [@mudin/vue-vr](https://github.com/mudin/vue-vr)
 * [@DASAR/ShiftColorPicker](https://github.com/DASAR/ShiftColorPicker)
 * [@S1lentium/IPTools](https://github.com/S1lentium/IPTools)
 * [@rahmonov/alcazar](https://github.com/rahmonov/alcazar)
