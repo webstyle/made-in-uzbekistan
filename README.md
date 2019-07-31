@@ -37,6 +37,8 @@
 * [@htimur/metrics-reporter-play](https://github.com/htimur/metrics-reporter-play)
 * [@rustamwin/rpc-controllers](https://github.com/rustamwin/rpc-controllers)
 * [@superdispatch/js-tools](https://github.com/superdispatch/js-tools)
+* [@abror9109/Dropbox-V2-API](https://github.com/abror9109/Dropbox-V2-API)
+* [@anvarulugov/aus-news-grabber)](https://github.com/anvarulugov/aus-news-grabber)
 
 
 # Contributing
