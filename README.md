@@ -1,11 +1,11 @@
 # 🇺🇿🇺🇿🇺🇿
 # Open source projects made by Uzbek developers
 
-* [@sherxon/AlgoDS](https://github.com/sherxon/AlgoDS)
-* [@ozodrukh/CircularReveal](https://github.com/ozodrukh/CircularReveal)
-* [@ozodrukh/RippleDrawable](https://github.com/ozodrukh/RippleDrawable)
-* [@Lapple/ErrorBoard](https://github.com/Lapple/ErrorBoard)
-* [@Lapple/react-json-inspector](https://github.com/Lapple/react-json-inspector)
+* [@sherxon/AlgoDS](https://github.com/sherxon/AlgoDS) ![stars](https://img.shields.io/github/stars/sherxon/AlgoDS.svg)
+* [@ozodrukh/CircularReveal](https://github.com/ozodrukh/CircularReveal) ![stars](https://img.shields.io/github/stars/ozodrukh/CircularReveal.svg)
+* [@ozodrukh/RippleDrawable](https://github.com/ozodrukh/RippleDrawable) ![stars](https://img.shields.io/github/stars/ozodrukh/RippleDrawable.svg)
+* [@Lapple/ErrorBoard](https://github.com/Lapple/ErrorBoard) ![stars](https://img.shields.io/github/stars/Lapple/ErrorBoard.svg)
+* [@Lapple/react-json-inspector](https://github.com/Lapple/react-json-inspector) ![stars](https://img.shields.io/github/stars/Lapple/react-json-inspector.svg)
 * [@Lapple/react-transitive-number](https://github.com/Lapple/react-transitive-number)
 * [@mudin/vue-vr](https://github.com/mudin/vue-vr)
 * [@DASAR/ShiftColorPicker](https://github.com/DASAR/ShiftColorPicker)
