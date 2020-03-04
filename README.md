@@ -1,4 +1,4 @@
-# 🇺🇿🇺🇿🇺🇿
+# made-in-uzbekistan
 ## Open source projects made by Uzbek developers
 
 * [@sherxon/AlgoDS](https://github.com/sherxon/AlgoDS) ![stars](https://img.shields.io/github/stars/sherxon/AlgoDS.svg)
