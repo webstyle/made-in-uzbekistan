@@ -1,5 +1,5 @@
 # 🇺🇿🇺🇿🇺🇿
-# Open source projects made by Uzbek developers
+## Open source projects made by Uzbek developers
 
 * [@sherxon/AlgoDS](https://github.com/sherxon/AlgoDS) ![stars](https://img.shields.io/github/stars/sherxon/AlgoDS.svg)
 * [@ozodrukh/CircularReveal](https://github.com/ozodrukh/CircularReveal) ![stars](https://img.shields.io/github/stars/ozodrukh/CircularReveal.svg)
