@@ -12,6 +12,7 @@
 * [@S1lentium/IPTools](https://github.com/S1lentium/IPTools)
 * [@rahmonov/alcazar](https://github.com/rahmonov/alcazar)
 * [@heykarimoff/solid.python](https://github.com/heykarimoff/solid.python)
+* [@azimjohn/jprq](https://github.com/azimjohn/jprq)
 * [@Recouse/LinearProgressBar](https://github.com/Recouse/LinearProgressBar)
 * [@umidbekkarimov/babel-plugin-direct-import](https://github.com/umidbekkarimov/babel-plugin-direct-import)
 * [@doniyor2109/redux-lightweight](https://github.com/doniyor2109/redux-lightweight)
