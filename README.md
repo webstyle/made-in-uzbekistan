@@ -41,6 +41,7 @@
 * [@abror9109/Dropbox-V2-API](https://github.com/abror9109/Dropbox-V2-API)
 * [@anvarulugov/aus-news-grabber)](https://github.com/anvarulugov/aus-news-grabber)
 * [@samiyev/bitbucket-telegram-bot](https://github.com/samiyev/bitbucket-telegram-bot)
+* [@diyorbek/syllabize-uz](https://github.com/Diyorbek/syllabize-uz)
 
 
 # Contributing
