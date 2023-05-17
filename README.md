@@ -42,6 +42,7 @@
 * [@anvarulugov/aus-news-grabber)](https://github.com/anvarulugov/aus-news-grabber)
 * [@samiyev/bitbucket-telegram-bot](https://github.com/samiyev/bitbucket-telegram-bot)
 * [@diyorbek/syllabize-uz](https://github.com/Diyorbek/syllabize-uz)
+* [@tigernetframework/Tigernet](https://github.com/tigernetframework) ![stars](https://img.shields.io/github/stars/tigernetframework/Tigernet.svg)
 
 
 # Contributing
